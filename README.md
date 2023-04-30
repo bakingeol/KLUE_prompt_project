@@ -1,4 +1,4 @@
-# klue prompt 프로젝트
+# klue prompt
 - Model : "klue/roberta-large"
 - Dataset : klue-re-v1.1_train  
 - Method : manual, mining, paraphrasing
